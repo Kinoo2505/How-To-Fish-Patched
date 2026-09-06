@@ -107,6 +107,8 @@ This project is created strictly for **educational and archival purposes** to de
 * Do not use this patch for malicious purposes or to gain unfair advantages in competitive online environments.
 * If you enjoy the game, please support the original developers by playing the official version.
 
+* DOWNLOAD LINK IS IN RELEASE PAGE
+
 ---
 
 ## 📜 License
